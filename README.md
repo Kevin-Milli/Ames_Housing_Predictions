@@ -1,6 +1,6 @@
 # Ames Housing Price Prediction
 
-Description:
+## Description:
 This repository contains a Python Jupyter Notebook showcasing a predictive model for housing prices using the Ames Housing Dataset. The dataset, sourced from Kaggle, includes various features related to residential properties in Ames, Iowa. The goal of this project is to develop a robust machine learning model that accurately predicts housing prices based on these features.
 
 ## Introduction:
@@ -22,7 +22,7 @@ The models are evaluated using appropriate metrics such as Mean Squared Error (M
 Python 3.x
 Jupyter Notebook
 
-Acknowledgments:
+## Acknowledgments:
 The Ames Housing Dataset is sourced from Kaggle user prevek18.
 Feel free to explore, learn from, and contribute to this repository. If you have any suggestions, improvements, or questions, please don't hesitate to create an issue or pull request. 
 Happy coding! 🏡📊🔍
